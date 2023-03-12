@@ -17,4 +17,3 @@ subplot(2,2,2);imshow(a1);title("y gradient");
 subplot(2,2,3);imshow(a2);title("x gradient");
 output=a1+a2;
 subplot(2,2,4);imshow(output);title("Prewitt Output");
-r
